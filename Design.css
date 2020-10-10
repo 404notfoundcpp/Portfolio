@@ -1,0 +1,45 @@
+#header
+{
+  background-color: #00e600;
+  position: relative;
+  padding-top: 50px;
+  font-family: 'Bungee Inline';  
+  text-align: center;
+}
+
+#size
+{
+	font-size: 10px;
+}
+
+#size2
+{
+	font-size: 20px;
+}
+
+#central
+{
+	text-align: left;
+	background-color: white;
+	font-family: 'Oleo Script Swash Caps';
+}
+
+#skills
+{
+	text-align: left;
+	background-color: white;
+	font-family: 'Oleo Script Swash Caps';
+}
+
+#interests
+{
+	font-family: 'Oleo Script Swash Caps';
+}
+
+#footer
+{
+	font-family: 'Bungee Inline';
+	background-color: #00e600;
+	padding-bottom: 30px;
+	text-align: center;
+}
