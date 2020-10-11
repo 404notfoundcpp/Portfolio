@@ -1,2 +1,3 @@
 # Portfolio
-Hey there ! This is my portfolio 
+Hey there ! 
+You can get to know me better through my personal portfolio !
